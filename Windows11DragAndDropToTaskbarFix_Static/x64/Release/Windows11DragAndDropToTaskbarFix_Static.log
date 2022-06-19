@@ -1,0 +1,8 @@
+﻿  Windows11DragAndDropToTaskbarFix.cpp
+C:\Users\krzys\Documents\GitHub\Windows11DragAndDropToTaskbarFix\Windows11DragAndDropToTaskbarFix\Windows11DragAndDropToTaskbarFix.cpp(159,103): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\krzys\Documents\GitHub\Windows11DragAndDropToTaskbarFix\Windows11DragAndDropToTaskbarFix\Windows11DragAndDropToTaskbarFix.cpp(199,121): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 1295 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Windows11DragAndDropToTaskbarFix_Static.vcxproj -> C:\Users\krzys\Documents\GitHub\Windows11DragAndDropToTaskbarFix\x64\Release\Windows11DragAndDropToTaskbarFix_Static.exe
